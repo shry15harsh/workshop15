@@ -15,3 +15,7 @@ int main(){
 		cout<<"That's 1";
 	}
 }
+void func2()
+{
+
+}
